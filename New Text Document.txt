@@ -1,2 +1,2 @@
 This is my first git doc to push remote repository
-this is my second chage
+this is my second change
